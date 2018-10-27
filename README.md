@@ -5,7 +5,9 @@ This document contains a collection of various Shiny snippets that people often 
 
 ### Table of contents ###
 
-•	[Adding up Message Boxes and Removing](https://github.com/surajsharan/RShiny/blob/master/adding%20up%20error%20messages%20notifications.R) 
+•	[Adding up Message Boxes and Removing](https://github.com/surajsharan/RShiny/blob/master/adding%20up%20error%20messages%20notifications.R)
+
+  ![](adding_up_notifications.gif) 
 
 •	[Adding Entries to the table in run-time](https://github.com/surajsharan/RShiny/blob/master/adding_colnames_inruntime.R)
  
