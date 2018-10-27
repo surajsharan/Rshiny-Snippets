@@ -1,4 +1,4 @@
-# RShiny
+# RShiny Snippets
 Shiny snippets for improving apps and solving common problems
 
 This document contains a collection of various Shiny snippets that people often face problems in. Each folder contains a complete functional Shiny app that demonstrates how to perform a non trivial task in Shiny.
