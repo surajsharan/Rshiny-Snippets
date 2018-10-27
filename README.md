@@ -9,7 +9,7 @@ Table of contents
 
 •	Adding Entries to the table in run-time
 
-•	[Alert in the Input boxes for improved user experience](RShiny/blob/master/alerts.R)
+•	[Alert in the Input boxes for improved user experience](https://github.com/surajsharan/RShiny/blob/master/alerts.R)
 
 
 
