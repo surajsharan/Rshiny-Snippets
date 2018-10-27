@@ -15,3 +15,5 @@ This document contains a collection of various Shiny snippets that people often 
   
 •	[Alert in the Input boxes for improved user experience](https://github.com/surajsharan/RShiny/blob/master/alerts.R)
 
+  ![](Alert.gif)
+
