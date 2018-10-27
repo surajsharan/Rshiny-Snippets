@@ -7,7 +7,7 @@ Table of contents
 
 •	Adding up Message Boxes and Removing 
 
-•	Adding Entries to the table in run-time
+•	[Adding Entries to the table in run-time](https://github.com/surajsharan/RShiny/blob/master/adding_colnames_inruntime.R)
 
 •	[Alert in the Input boxes for improved user experience](https://github.com/surajsharan/RShiny/blob/master/alerts.R)
 
