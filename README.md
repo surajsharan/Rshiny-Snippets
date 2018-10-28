@@ -16,4 +16,9 @@ This document contains a collection of various Shiny snippets that people often 
 •	[Alert in the Input boxes for improved user experience](https://github.com/surajsharan/RShiny/blob/master/alerts.R)
 
   ![](Alert.gif)
+  
+  
+•	[Embed Youtube Video in Modals](https://github.com/surajsharan/RShiny/blob/master/embed_youtube.R)
+
+  ![](embed_youtube.gif)
 
