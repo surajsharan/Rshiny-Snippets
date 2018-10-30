@@ -21,4 +21,8 @@ This document contains a collection of various Shiny snippets that people often 
 •	[Embed Youtube Video in Modals](https://github.com/surajsharan/RShiny/blob/master/embed_youtube.R)
 
   ![](embed_youtube.gif)
+  
+•	[Hover in Tables](https://github.com/surajsharan/RShiny/blob/master/datatable_hover.R)
+
+  ![](hover.gif)
 
