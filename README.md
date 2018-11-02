@@ -25,4 +25,9 @@ This document contains a collection of various Shiny snippets that people often 
 •	[Hover in Tables](https://github.com/surajsharan/RShiny/blob/master/datatable_hover.R)
 
   ![](hover.gif)
+  
+  
+•	[Show/Hide in Navbar page](https://github.com/surajsharan/RShiny/blob/master/show_hide.R)
+
+  
 
