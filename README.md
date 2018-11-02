@@ -28,6 +28,8 @@ This document contains a collection of various Shiny snippets that people often 
   
   
 •	[Show/Hide in Navbar page](https://github.com/surajsharan/RShiny/blob/master/show_hide.R)
+  
+  ![](show_hide.gif)
 
   
 
