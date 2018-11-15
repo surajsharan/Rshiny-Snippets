@@ -30,6 +30,17 @@ This document contains a collection of various Shiny snippets that people often 
 •	[Show/Hide in Navbar page](https://github.com/surajsharan/RShiny/blob/master/show_hide.R)
   
   ![](show_hide.gif) 
+  
+•	[Login Page for Apps in Shiny](https://github.com/surajsharan/RShiny/blob/master/show_hide.R)
+ 
+ ##### Username : test 
+ 
+ ##### Password : test
+ 
+ Do try it youself!  
+ ![](show_hide.gif) 
+  
+  
 
   
 
