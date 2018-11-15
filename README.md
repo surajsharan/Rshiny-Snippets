@@ -31,14 +31,14 @@ This document contains a collection of various Shiny snippets that people often 
   
   ![](show_hide.gif) 
   
-•	[Login Page for Apps in Shiny](https://github.com/surajsharan/RShiny/blob/master/show_hide.R)
+•	[Login Page for Apps in Shiny](https://github.com/surajsharan/RShiny/blob/master/Login_password.R)
  
  ##### Username : test 
  
  ##### Password : test
  
  Do try it youself!  
- ![](show_hide.gif) 
+ ![](login.gif) 
   
   
 
